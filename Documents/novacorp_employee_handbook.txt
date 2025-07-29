@@ -1,0 +1,872 @@
+NOVACORP EMPLOYEE HANDBOOK
+
+Effective Date: January 1, 2024
+Version: 4.2
+
+TABLE OF CONTENTS
+
+1. WELCOME TO NOVACORP
+2. COMPANY OVERVIEW
+3. EMPLOYMENT POLICIES
+4. COMPENSATION AND BENEFITS
+5. TIME OFF AND LEAVES
+6. WORKPLACE CONDUCT
+7. HEALTH AND SAFETY
+8. PROFESSIONAL DEVELOPMENT
+9. TECHNOLOGY AND SECURITY
+10. EMPLOYEE RESOURCES
+
+================================================================================
+
+1. WELCOME TO NOVACORP
+
+Dear Team Member,
+
+Welcome to NovaCorp! We're thrilled to have you join our innovative team. This handbook serves as your comprehensive guide to understanding our company culture, policies, and the benefits available to you as a valued employee.
+
+At NovaCorp, we believe in fostering an environment where creativity thrives, diversity is celebrated, and every individual has the opportunity to grow both personally and professionally. Our success is built on the collective efforts of talented individuals like you who bring unique perspectives and skills to our organization.
+
+This handbook contains important information about your employment, benefits, and responsibilities. Please take time to read through it carefully. If you have any questions, don't hesitate to reach out to your manager or the Human Resources team.
+
+Remember, this handbook is a living document that may be updated periodically to reflect changes in our policies or legal requirements. You'll be notified of any significant updates.
+
+Once again, welcome to the NovaCorp family!
+
+Sarah Chen
+Chief Executive Officer
+
+================================================================================
+
+2. COMPANY OVERVIEW
+
+2.1 Our Mission
+NovaCorp is dedicated to revolutionizing enterprise software solutions through innovative technology and exceptional customer service. We strive to empower businesses worldwide with tools that enhance productivity, streamline operations, and drive growth.
+
+2.2 Our Values
+- Innovation: We embrace creativity and encourage thinking outside the box
+- Integrity: We conduct business with honesty and transparency
+- Collaboration: We believe in the power of teamwork and diverse perspectives
+- Excellence: We are committed to delivering high-quality solutions
+- Customer Focus: We prioritize our clients' success
+- Sustainability: We are committed to environmental and social responsibility
+
+2.3 Company History
+Founded in 2010 by a team of software engineers in San Francisco, NovaCorp has grown from a small startup to a global enterprise serving over 10,000 clients across 50 countries. Our journey has been marked by continuous innovation, strategic acquisitions, and a steadfast commitment to our core values.
+
+Key Milestones:
+- 2010: Company founded with 5 employees
+- 2012: Launched flagship product NovaFlow
+- 2015: Expanded to Europe and Asia
+- 2018: Acquired CloudSync Technologies
+- 2020: Reached 1,000 employees globally
+- 2022: Launched AI-powered analytics platform
+- 2024: Celebrating 5,000+ employees worldwide
+
+2.4 Organizational Structure
+NovaCorp operates with a matrix organizational structure that promotes collaboration across departments while maintaining clear reporting lines. Our main divisions include:
+- Product Development
+- Sales and Marketing
+- Customer Success
+- Operations
+- Finance
+- Human Resources
+- Legal and Compliance
+
+2.5 Office Locations
+Headquarters: San Francisco, CA
+Regional Offices:
+- New York, NY
+- Austin, TX
+- London, UK
+- Berlin, Germany
+- Tokyo, Japan
+- Singapore
+- Sydney, Australia
+
+================================================================================
+
+3. EMPLOYMENT POLICIES
+
+3.1 Equal Employment Opportunity
+NovaCorp is an equal opportunity employer committed to creating a diverse and inclusive workplace. We prohibit discrimination based on race, color, religion, gender, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other protected characteristic.
+
+All employment decisions, including hiring, promotion, compensation, and termination, are based solely on qualifications, merit, and business needs.
+
+3.2 At-Will Employment
+Employment at NovaCorp is at-will, meaning either you or the company can terminate the employment relationship at any time, with or without cause or notice. This at-will relationship cannot be changed except in writing signed by the CEO.
+
+3.3 Employment Classifications
+
+Full-Time Employees: Work 40 hours per week and are eligible for all company benefits
+Part-Time Employees: Work less than 30 hours per week and receive prorated benefits
+Temporary Employees: Hired for specific projects or time periods, limited benefits
+Contractors: Independent workers, not eligible for employee benefits
+
+3.4 Work Hours and Schedules
+Standard business hours are Monday through Friday, 9:00 AM to 6:00 PM local time. However, we offer flexible scheduling options:
+
+Core Hours: All employees must be available 10:00 AM - 3:00 PM
+Flex Time: Start between 7:00 AM - 10:00 AM, end accordingly
+Remote Work: Eligible employees may work remotely up to 3 days per week
+Compressed Workweek: Option to work four 10-hour days with manager approval
+
+3.5 Probationary Period
+New employees undergo a 90-day probationary period during which performance is closely monitored. During this time:
+- Regular check-ins with managers occur weekly
+- Performance goals are established and reviewed
+- Benefits begin on the first day of employment
+- Either party may terminate employment with one week's notice
+
+3.6 Performance Reviews
+Annual Reviews: Comprehensive evaluation each December
+Mid-Year Check-ins: Progress review in June
+Quarterly 1-on-1s: Regular feedback sessions with managers
+360-Degree Feedback: Peer and subordinate input for managers
+
+Performance ratings:
+- Exceeds Expectations (5)
+- Above Expectations (4)
+- Meets Expectations (3)
+- Below Expectations (2)
+- Needs Improvement (1)
+
+3.7 Promotions and Transfers
+Internal mobility is encouraged at NovaCorp. Employees can apply for open positions after 12 months in their current role. The process includes:
+- Internal job postings shared weekly
+- Manager notification required before applying
+- Skills assessment and interviews
+- Transition planning if selected
+
+================================================================================
+
+4. COMPENSATION AND BENEFITS
+
+4.1 Compensation Philosophy
+NovaCorp believes in fair, competitive compensation that rewards performance and contribution. Our comprehensive package includes base salary, bonuses, equity, and benefits designed to support your financial well-being and work-life balance.
+
+4.2 Salary Structure
+Salaries are reviewed annually based on:
+- Market benchmarks
+- Individual performance
+- Company performance
+- Role complexity and impact
+- Geographic location
+
+Pay grades range from E1 (entry-level) to E10 (senior leadership)
+
+4.3 Payroll Information
+Pay Schedule: Bi-weekly (every other Friday)
+Direct Deposit: Required for all employees
+Pay Stubs: Available online through NovaHR portal
+Deductions: Federal/state taxes, benefits premiums, 401(k) contributions
+
+4.4 Overtime Policy
+Non-exempt employees are eligible for overtime pay at 1.5x regular rate for hours over 40 per week. Prior manager approval required for overtime work.
+
+4.5 Bonus Programs
+
+Annual Performance Bonus: 0-20% of base salary based on individual and company performance
+Referral Bonus: $2,000-$5,000 for successful employee referrals
+Spot Bonus: Up to $1,000 for exceptional contributions
+Patent Bonus: $2,500 for approved patents
+
+4.6 Equity Compensation
+Stock options or RSUs offered based on role level:
+- Entry level: 500-2,000 options
+- Mid-level: 2,000-10,000 options
+- Senior level: 10,000-50,000 options
+- Executive: 50,000+ options
+
+Vesting schedule: 4 years with 1-year cliff
+
+4.7 Health Insurance
+
+Medical:
+- PPO and HMO options
+- Company pays 90% of employee premium, 75% of dependent premium
+- Annual deductible: $500 (individual), $1,000 (family)
+- Out-of-pocket maximum: $3,000 (individual), $6,000 (family)
+
+Dental:
+- Company pays 100% of employee premium
+- Annual maximum: $2,000
+- Orthodontia coverage: 50% up to $2,500 lifetime
+
+Vision:
+- Company pays 100% of premium
+- Annual eye exam and $200 allowance for frames/contacts
+
+Health Savings Account (HSA):
+- Company contribution: $750 (individual), $1,500 (family)
+
+4.8 Life and Disability Insurance
+
+Life Insurance: 2x annual salary, company paid
+Supplemental Life: Up to 5x salary available for purchase
+AD&D Insurance: 2x annual salary
+Short-term Disability: 60% of salary for up to 12 weeks
+Long-term Disability: 60% of salary after 12 weeks
+
+4.9 Retirement Benefits
+
+401(k) Plan:
+- Immediate eligibility
+- Company match: 100% of first 4% contributed
+- Additional 2% company contribution after 1 year
+- Vesting: Immediate for employee contributions, 3-year graded for company match
+
+4.10 Additional Benefits
+
+Commuter Benefits: $250 monthly pre-tax benefit
+Gym Membership: $100 monthly reimbursement
+Phone Stipend: $50 monthly
+Home Office Setup: $1,000 one-time allowance
+Wellness Programs: On-site fitness classes, meditation apps, health screenings
+Employee Assistance Program: Free counseling and support services
+Pet Insurance: Discounted rates available
+Legal Services: Prepaid legal plan option
+
+================================================================================
+
+5. TIME OFF AND LEAVES
+
+5.1 Paid Time Off (PTO)
+NovaCorp offers flexible PTO to support work-life balance:
+
+Accrual Rates:
+- Years 0-2: 15 days per year (1.25 days/month)
+- Years 3-5: 20 days per year (1.67 days/month)
+- Years 6-10: 25 days per year (2.08 days/month)
+- Years 11+: 30 days per year (2.5 days/month)
+
+PTO Guidelines:
+- Advance notice required: 2 weeks for 5+ consecutive days
+- Maximum carryover: 10 days into next year
+- Payout upon termination: Up to 20 days
+- Blackout dates: None, but coverage must be arranged
+
+5.2 Company Holidays
+NovaCorp observes 12 paid holidays annually:
+- New Year's Day
+- Martin Luther King Jr. Day
+- Presidents' Day
+- Memorial Day
+- Independence Day
+- Labor Day
+- Indigenous Peoples' Day
+- Thanksgiving Day
+- Day after Thanksgiving
+- Christmas Eve
+- Christmas Day
+- New Year's Eve
+
+Plus 2 floating holidays to be used at employee discretion
+
+5.3 Sick Leave
+Separate from PTO, employees receive 10 sick days annually
+- No carryover permitted
+- Doctor's note required for 3+ consecutive days
+- Can be used for family member care
+
+5.4 Parental Leave
+Primary Caregiver: 16 weeks fully paid
+Secondary Caregiver: 6 weeks fully paid
+Adoption/Surrogacy: Same benefits apply
+Gradual Return: Option to work part-time for 4 weeks at full pay
+
+Eligibility: After 6 months of employment
+Benefits continuation: Full benefits during leave
+
+5.5 Bereavement Leave
+- Immediate family: 5 days paid
+- Extended family: 3 days paid
+- Close friend: 1 day paid
+
+Immediate family includes: spouse, children, parents, siblings, grandparents, in-laws
+
+5.6 Jury Duty and Voting Leave
+Jury Duty: Paid leave for duration of service
+Voting: 2 hours paid time off on election days
+Military Leave: Differential pay for up to 2 weeks annually
+
+5.7 Sabbatical Program
+After 5 years of service, eligible for 4-week paid sabbatical
+Must be used for personal growth, travel, or volunteer work
+Requires VP approval and coverage plan
+
+5.8 Volunteer Time Off (VTO)
+16 hours annually for approved volunteer activities
+Can be used in minimum 4-hour blocks
+Team volunteer events organized quarterly
+
+================================================================================
+
+6. WORKPLACE CONDUCT
+
+6.1 Code of Conduct
+All employees must maintain professional behavior that reflects NovaCorp's values:
+- Treat others with respect and dignity
+- Communicate openly and honestly
+- Take responsibility for actions
+- Maintain confidentiality
+- Avoid conflicts of interest
+- Comply with all laws and regulations
+
+6.2 Attendance and Punctuality
+Regular attendance is essential. Requirements:
+- Arrive on time for work and meetings
+- Notify manager of absences ASAP
+- Provide doctor's note for extended illness
+- Excessive tardiness may result in disciplinary action
+
+Attendance tracking:
+- 3 unexcused absences in 90 days: Verbal warning
+- 5 unexcused absences in 90 days: Written warning
+- 7 unexcused absences in 90 days: Possible termination
+
+6.3 Dress Code
+Business casual Monday-Thursday, casual Friday
+Guidelines:
+- Professional appearance required
+- No offensive graphics or messages
+- Client-facing roles: Business professional
+- Safety equipment required in certain areas
+
+Unacceptable attire:
+- Beachwear, athletic wear (except Fridays)
+- Revealing clothing
+- Torn or dirty clothing
+- Strong fragrances
+
+6.4 Anti-Harassment Policy
+NovaCorp maintains a zero-tolerance policy for harassment:
+- Sexual harassment
+- Discriminatory harassment
+- Bullying or intimidation
+- Retaliation
+
+Reporting procedures:
+1. Report to manager or HR immediately
+2. Written complaint encouraged but not required
+3. Investigation within 48 hours
+4. Confidentiality maintained to extent possible
+
+6.5 Workplace Violence Prevention
+Prohibited behaviors:
+- Threats or intimidation
+- Physical violence
+- Possession of weapons
+- Aggressive or hostile behavior
+
+Emergency procedures:
+- Immediate threat: Call 911
+- Non-immediate: Report to Security and HR
+- Annual training required
+
+6.6 Substance Abuse Policy
+NovaCorp maintains a drug-free workplace:
+- Illegal drugs prohibited
+- Alcohol prohibited during work hours
+- Prescription drugs must not impair performance
+- Random testing for safety-sensitive positions
+
+Assistance available:
+- Employee Assistance Program
+- Confidential counseling
+- Treatment referrals
+- One chance for rehabilitation
+
+6.7 Social Media Policy
+Guidelines for personal social media:
+- Don't disclose confidential information
+- Include disclaimer when discussing company
+- Be respectful of colleagues and clients
+- Don't use company logos without permission
+
+Company social media:
+- Only authorized personnel post officially
+- Follow brand guidelines
+- Respond professionally to comments
+
+6.8 Conflict of Interest
+Employees must avoid situations that conflict with company interests:
+- Outside employment requires approval
+- Board positions need disclosure
+- Family member employment restrictions
+- Vendor relationships must be transparent
+
+Annual disclosure required for:
+- Financial interests in competitors/vendors
+- Family relationships in company
+- Outside business activities
+
+================================================================================
+
+7. HEALTH AND SAFETY
+
+7.1 Workplace Safety
+NovaCorp is committed to providing a safe work environment:
+- Regular safety inspections
+- Ergonomic workstation assessments
+- First aid kits on every floor
+- Automated External Defibrillators (AEDs) available
+- Fire extinguishers and emergency exits clearly marked
+
+Employee responsibilities:
+- Report unsafe conditions immediately
+- Follow all safety procedures
+- Participate in safety training
+- Use required protective equipment
+
+7.2 Emergency Procedures
+
+Fire Emergency:
+1. Activate nearest fire alarm
+2. Evacuate via nearest exit
+3. Meet at designated assembly point
+4. Do not re-enter until cleared
+
+Medical Emergency:
+1. Call 911
+2. Notify Security (ext. 5555)
+3. Don't move injured person unless necessary
+4. Trained first aiders will respond
+
+Earthquake:
+1. Drop, Cover, and Hold On
+2. Stay away from windows
+3. Evacuate after shaking stops
+4. Check in at assembly point
+
+Active Threat:
+1. Run if safe exit available
+2. Hide if escape not possible
+3. Fight as last resort
+4. Call 911 when safe
+
+7.3 Ergonomics Program
+Free ergonomic assessments available:
+- Adjustable standing desks
+- Ergonomic chairs and keyboards
+- Monitor arms and footrests
+- Laptop stands and external monitors
+
+Request through HR portal or facilities team
+
+7.4 Workers' Compensation
+All work-related injuries must be reported immediately:
+1. Notify supervisor
+2. Complete incident report within 24 hours
+3. Seek medical treatment if needed
+4. Follow up with HR
+
+Benefits include:
+- Medical expense coverage
+- Temporary disability payments
+- Vocational rehabilitation
+- Return-to-work programs
+
+7.5 Health and Wellness Programs
+
+On-site Services:
+- Annual health screenings
+- Flu shots
+- Biometric screenings
+- Wellness coaching
+
+Wellness Initiatives:
+- Step challenges
+- Meditation classes
+- Nutrition workshops
+- Stress management seminars
+- Smoking cessation programs
+
+Mental Health Support:
+- Employee Assistance Program: 24/7 hotline
+- 8 free counseling sessions annually
+- Work-life balance resources
+- Manager training on mental health
+
+7.6 COVID-19 and Communicable Diseases
+Current protocols:
+- Stay home when sick
+- Flexible work arrangements available
+- Enhanced cleaning procedures
+- Hand sanitizer stations throughout offices
+- Masks available upon request
+
+Notification requirements:
+- Report positive COVID test to HR
+- Contact tracing conducted confidentially
+- Quarantine pay available
+
+================================================================================
+
+8. PROFESSIONAL DEVELOPMENT
+
+8.1 Learning and Development Philosophy
+NovaCorp invests in employee growth through comprehensive development programs:
+- Technical skills training
+- Leadership development
+- Soft skills workshops
+- Industry certifications
+- Continuing education
+
+8.2 Training Programs
+
+Onboarding Program (First 30 days):
+- Week 1: Company orientation and culture
+- Week 2: Department-specific training
+- Week 3: Systems and tools training
+- Week 4: Role-specific shadowing
+
+Mandatory Annual Training:
+- Code of Conduct refresher
+- Cybersecurity awareness
+- Anti-harassment training
+- Safety procedures
+- Data privacy compliance
+
+8.3 Professional Development Budget
+Annual allocation per employee:
+- Individual contributors: $2,000
+- Managers: $3,000
+- Directors: $5,000
+- VPs and above: $7,500
+
+Covered expenses:
+- Conferences and seminars
+- Online courses and certifications
+- Professional memberships
+- Books and learning materials
+- Degree programs (with approval)
+
+8.4 Tuition Reimbursement
+Eligibility: After 6 months of employment
+Coverage: Up to $5,250 annually for approved programs
+Requirements:
+- Grade B or better
+- Degree relevant to role
+- Continued employment for 1 year post-completion
+
+Process:
+1. Submit request before enrollment
+2. Provide proof of payment and grades
+3. Reimbursement within 30 days
+
+8.5 Career Pathing
+Tools and resources:
+- Career ladder documentation
+- Skills matrices by role
+- Internal mobility program
+- Job shadowing opportunities
+- Stretch assignments
+
+Annual career conversations:
+- Goal setting with manager
+- Development plan creation
+- Progress tracking quarterly
+- Internal mentor matching
+
+8.6 Mentorship Program
+Formal mentorship available:
+- 6-month commitment
+- Monthly meetings required
+- Cross-functional pairings encouraged
+- Leadership sponsorship for high performers
+
+Reverse mentoring:
+- Junior employees mentor seniors on technology
+- Promotes knowledge sharing
+- Builds relationships across levels
+
+8.7 Leadership Development
+
+Emerging Leaders Program:
+- For high-potential individual contributors
+- 6-month curriculum
+- Executive coaching included
+- Capstone project required
+
+Manager Excellence:
+- New manager training within 60 days
+- Quarterly manager forums
+- 360-degree feedback annually
+- Advanced management courses
+
+Executive Development:
+- Strategic leadership programs
+- Board readiness training
+- Executive coaching
+- External leadership programs
+
+================================================================================
+
+9. TECHNOLOGY AND SECURITY
+
+9.1 Information Security Policy
+All employees must protect company and client data:
+- Use strong passwords (minimum 12 characters)
+- Enable two-factor authentication
+- Lock screens when away from desk
+- Report suspicious emails immediately
+- Don't share login credentials
+
+Data Classification:
+- Public: Can be shared externally
+- Internal: NovaCorp use only
+- Confidential: Restricted access
+- Highly Confidential: Need-to-know basis
+
+9.2 Acceptable Use Policy
+
+Company Equipment:
+- Primarily for business use
+- Limited personal use permitted
+- No illegal or inappropriate content
+- Regular monitoring conducted
+
+Prohibited Activities:
+- Downloading unauthorized software
+- Accessing inappropriate websites
+- Sharing confidential information
+- Circumventing security controls
+- Using company resources for side businesses
+
+9.3 Email and Communication
+Guidelines:
+- Professional tone required
+- Include signature with contact info
+- Use BCC for large distributions
+- Respond within 24 hours
+- Archive important communications
+
+Email retention:
+- General emails: 90 days
+- Project emails: Duration of project
+- Legal holds: Indefinite
+
+9.4 Remote Work Technology
+Provided equipment:
+- Laptop with VPN access
+- Monitors and docking station
+- Headset for calls
+- Collaboration software licenses
+
+Security requirements:
+- Secure home WiFi (WPA2 minimum)
+- Private workspace
+- VPN connection required
+- No public WiFi for sensitive work
+
+9.5 Software and Tools
+Standard software suite:
+- Microsoft Office 365
+- Slack for communication
+- Zoom for video conferencing
+- Salesforce CRM
+- Jira for project management
+- GitHub for development
+
+Request process for additional software:
+1. Submit IT ticket with justification
+2. Manager approval required
+3. Security review conducted
+4. Installation by IT only
+
+9.6 Mobile Device Management
+Company phones:
+- iPhone or Android options
+- Monthly stipend: $50
+- MDM software required
+- Remote wipe capability enabled
+
+BYOD (Bring Your Own Device):
+- Optional for personal phones
+- Company data segregated
+- Security policies enforced
+- Partial reimbursement available
+
+9.7 Data Protection and Privacy
+Employee responsibilities:
+- Complete annual privacy training
+- Report data breaches immediately
+- Follow data retention policies
+- Obtain consent before sharing personal data
+
+GDPR compliance:
+- Right to access personal data
+- Right to correction
+- Right to deletion (where applicable)
+- Data portability options
+
+9.8 Incident Response
+Security incident reporting:
+1. Contact IT Security immediately
+2. Don't attempt to fix yourself
+3. Preserve evidence
+4. Complete incident report
+
+Response team activation:
+- Severity 1: Executive team notified
+- Severity 2: Department heads involved
+- Severity 3: IT handles internally
+
+================================================================================
+
+10. EMPLOYEE RESOURCES
+
+10.1 HR Contact Information
+HR Service Center: hr@novacorp.com
+Phone: 1-800-NOVA-HR1 (1-800-668-2471)
+Hours: Monday-Friday, 8 AM - 6 PM PST
+
+HR Portal: hr.novacorp.com
+- Benefits enrollment
+- Time off requests
+- Performance reviews
+- Training registration
+- Policy documents
+
+10.2 Employee Resource Groups (ERGs)
+Active groups supporting diversity and inclusion:
+- Women in Tech (WIT)
+- Pride@NovaCorp (LGBTQ+)
+- NovaCorp Black Alliance
+- Asian Pacific Islander Network
+- Veterans Coalition
+- Parents Network
+- Young Professionals
+- Green Team (Sustainability)
+
+Each ERG receives:
+- Annual budget: $10,000
+- Executive sponsor
+- Monthly meeting space
+- Platform for initiatives
+
+10.3 Facilities and Services
+
+Office Amenities:
+- Full kitchen with snacks and beverages
+- Game rooms and relaxation areas
+- Mother's rooms for nursing parents
+- Prayer/meditation rooms
+- Bike storage and showers
+- Electric vehicle charging stations
+
+Cafeteria Services:
+- Breakfast: 8-10 AM (subsidized)
+- Lunch: 11:30 AM - 2 PM (subsidized)
+- Dinner: 5-7 PM (free for those working late)
+- Special dietary options available
+
+10.4 Recognition Programs
+
+Spot Recognition:
+- Peer-to-peer appreciation platform
+- Points redeemable for rewards
+- Monthly drawing for nominees
+
+Nova Star Awards:
+- Quarterly recognition
+- $500 award plus trophy
+- Categories: Innovation, Collaboration, Customer Focus
+
+Annual Awards:
+- Employee of the Year
+- Team of the Year
+- Innovation Award
+- Community Service Award
+
+10.5 Communication Channels
+
+Company-wide:
+- CEO monthly all-hands
+- Quarterly town halls
+- Nova News weekly newsletter
+- Intranet portal
+
+Department-specific:
+- Team meetings
+- Slack channels
+- Department newsletters
+- Skip-level meetings
+
+Feedback mechanisms:
+- Annual engagement survey
+- Pulse surveys quarterly
+- Suggestion box (anonymous)
+- Open door policy
+
+10.6 Work-Life Balance Resources
+
+Flexibility Options:
+- Flexible start/end times
+- Compressed workweeks
+- Job sharing possibilities
+- Unpaid leave options
+
+Family Support:
+- Backup childcare (10 days/year)
+- Elder care resources
+- Adoption assistance ($5,000)
+- Fertility treatment coverage
+
+Personal Services:
+- Dry cleaning drop-off
+- Car wash services
+- Personal trainer consultations
+- Financial planning seminars
+
+10.7 Alumni Network
+Stay connected after NovaCorp:
+- Alumni directory
+- Networking events
+- Boomerang employee program
+- Referral bonuses for alumni
+
+10.8 Important Policies Quick Reference
+
+Anti-Retaliation: Protected for good faith reporting
+Confidentiality: Respect proprietary information
+Gifts and Entertainment: Under $100, pre-approved if over
+Political Activities: Personal time only, no company resources
+Moonlighting: Requires written approval
+Nepotism: No direct reporting relationships
+Records Retention: Follow department guidelines
+Workplace Searches: Company property subject to search
+
+================================================================================
+
+APPENDICES
+
+A. Glossary of Terms
+B. Forms and Documents
+C. State-Specific Addenda
+D. Benefits Summary Chart
+E. Holiday Calendar
+F. Emergency Contact List
+G. Frequently Asked Questions
+
+================================================================================
+
+ACKNOWLEDGMENT OF RECEIPT
+
+This handbook is not a contract of employment. NovaCorp reserves the right to modify, revoke, suspend, terminate, or change any or all policies, procedures, and benefits at any time with or without notice.
+
+I acknowledge that I have received a copy of the NovaCorp Employee Handbook and understand that it is my responsibility to read and comply with the policies contained herein and any revisions made to it.
+
+By continuing employment with NovaCorp, I acknowledge my understanding and acceptance of these policies.
+
+Last Updated: January 1, 2024
+Version: 4.2
+
+For questions about this handbook, please contact:
+Human Resources Department
+hr@novacorp.com
+1-800-NOVA-HR1
+
+================================================================================
+
+END OF EMPLOYEE HANDBOOK
