@@ -44,9 +44,24 @@ interface ChatMessage {
 interface HRChatDashboardProps {
   userRole: string;
   activeChat?: string;
-  onSendMessage?: (query: string, userRole: string) => Promise<any>;
+  onSendMessage?: (query: string, userRole: string) => Promise<WorkflowResponse>;
   onChatCreated?: (title: string) => string | null;
   isNewChat?: boolean;
+}
+
+interface WorkflowResponse {
+  success: boolean;
+  data?: {
+    answer: string;
+    sources: Array<{
+      source: string;
+      page: number;
+      section: string;
+    }>;
+    confidence_score: number;
+    confidence_level: string;
+  };
+  error?: string;
 }
 
 const hrSuggestions = [
@@ -252,7 +267,7 @@ export function HRChatDashboard({
     }
   };
 
-  const getSourceUrl = (source: any) => {
+  const getSourceUrl = (source: {source: string; page: number; section: string}) => {
     // Create a meaningful URL or identifier for the source
     return `#${source.source}-page-${source.page}`;
   };
