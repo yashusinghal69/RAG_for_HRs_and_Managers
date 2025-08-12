@@ -1,17 +1,4 @@
 {
-  "version": 2,
-  "builds": [
-    {
-      "src": "package.json",
-      "use": "@vercel/next"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/$1"
-    }
-  ],
   "env": {
     "NEXT_PUBLIC_FASTAPI_URL": "https://rag-for-hrs-and-managers.onrender.com"
   }
