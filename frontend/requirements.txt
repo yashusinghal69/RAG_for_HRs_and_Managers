@@ -1,0 +1,9 @@
+# Requirements for Python serverless functions on Vercel
+langchain
+langgraph
+pinecone-client
+pypdf2
+python-multipart
+uvicorn
+fastapi
+pydantic

@@ -1,0 +1,16 @@
+langgraph
+langchain
+langchain-openai
+langchain-community
+langchain-experimental
+python-dotenv
+pydantic
+fastapi
+uvicorn
+python-multipart
+pinecone
+rank-bm25
+PyMuPDF
+chardet
+IPython
+scikit-learn

@@ -3,9 +3,9 @@ from langchain_openai import OpenAIEmbeddings
 from pinecone import Pinecone
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-import numpy as np
 import pickle
 import os
+import numpy as np
 from settings import (
     OPENAI_API_KEY, PINECONE_API_KEY, PINECONE_INDEX_NAME
 )

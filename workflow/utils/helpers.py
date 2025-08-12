@@ -4,14 +4,26 @@ from datetime import datetime
 from settings import SENSITIVE_KEYWORDS
 
 def parse_user_role(user_id: str) -> str:
-  
-    if user_id.startswith("EMP"):
+    """
+    Parse user role from user_id.
+    Now handles direct role strings from frontend: 'employee', 'hr', 'manager'
+    Also handles legacy format: 'EMP123', 'HR456', 'MGR789'
+    """
+    user_id = user_id.lower().strip()
+    
+    # Direct role mapping (from frontend dropdown)
+    if user_id in ["employee", "hr", "manager"]:
+        return user_id
+    
+    # Legacy format with prefixes
+    if user_id.startswith("emp"):
         return "employee"
-    elif user_id.startswith("MGR"):
+    elif user_id.startswith("mgr"):
         return "manager"
-    elif user_id.startswith("HR"):
+    elif user_id.startswith("hr"):
         return "hr"
     else:
+        # Default to employee if unrecognized
         return "employee"
 
 def get_authorized_access_levels(user_role: str) -> List[str]:
