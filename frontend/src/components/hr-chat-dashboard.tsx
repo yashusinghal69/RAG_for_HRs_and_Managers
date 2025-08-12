@@ -142,7 +142,8 @@ export function HRChatDashboard({
       });
 
       // Get FastAPI URL from environment or use localhost for development
-      const FASTAPI_URL = process.env.NEXT_PUBLIC_FASTAPI_URL || "http://localhost:8000";
+      const FASTAPI_URL =
+        process.env.NEXT_PUBLIC_FASTAPI_URL || "http://localhost:8000";
 
       const response = await fetch(`${FASTAPI_URL}/api/workflow`, {
         method: "POST",
