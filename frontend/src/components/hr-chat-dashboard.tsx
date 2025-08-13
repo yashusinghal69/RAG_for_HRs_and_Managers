@@ -44,7 +44,10 @@ interface ChatMessage {
 interface HRChatDashboardProps {
   userRole: string;
   activeChat?: string;
-  onSendMessage?: (query: string, userRole: string) => Promise<WorkflowResponse>;
+  onSendMessage?: (
+    query: string,
+    userRole: string
+  ) => Promise<WorkflowResponse>;
   onChatCreated?: (title: string) => string | null;
   isNewChat?: boolean;
 }
@@ -267,7 +270,11 @@ export function HRChatDashboard({
     }
   };
 
-  const getSourceUrl = (source: {source: string; page: number; section: string}) => {
+  const getSourceUrl = (source: {
+    source: string;
+    page: number;
+    section: string;
+  }) => {
     // Create a meaningful URL or identifier for the source
     return `#${source.source}-page-${source.page}`;
   };

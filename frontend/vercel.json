@@ -1,5 +1,5 @@
 {
   "env": {
-    "NEXT_PUBLIC_FASTAPI_URL": "https://rag-for-hrs-and-managers.onrender.com"
+    "NEXT_PUBLIC_FASTAPI_URL": "https://ragforhrsandmanagers-production.up.railway.app"
   }
 }
